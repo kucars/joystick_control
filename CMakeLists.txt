@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(joy_control)
+project(joystick_control)
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "/home/marbm/catkin_ws_generic/devel/share/rosaria/cmake/")
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "/home/marbm/catkin_ws_generic/build/rosaria/catkin_generated/installspace/")
 set(rosaria_DIR "/home/marbm/catkin_ws_generic/devel/share/rosaria/cmake/")

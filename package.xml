@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>joy_control</name>
+  <name>joystick_control</name>
   <version>0.0.0</version>
   <description>The learningJoy package</description>
 
